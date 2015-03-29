@@ -179,20 +179,21 @@
             this.TotalSalsesLabel.Location = new System.Drawing.Point(20, 454);
             this.TotalSalsesLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TotalSalsesLabel.Name = "TotalSalsesLabel";
-            this.TotalSalsesLabel.Size = new System.Drawing.Size(153, 29);
+            this.TotalSalsesLabel.Size = new System.Drawing.Size(141, 29);
             this.TotalSalsesLabel.TabIndex = 8;
-            this.TotalSalsesLabel.Text = "Total Salses:";
+            this.TotalSalsesLabel.Text = "Total Sales:";
             // 
             // SalesBonusTextBox
             // 
             this.SalesBonusTextBox.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.SalesBonusTextBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.SalesBonusTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.SalesBonusTextBox.Enabled = false;
             this.SalesBonusTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SalesBonusTextBox.Location = new System.Drawing.Point(258, 501);
             this.SalesBonusTextBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.SalesBonusTextBox.Name = "SalesBonusTextBox";
             this.SalesBonusTextBox.ReadOnly = true;
-            this.SalesBonusTextBox.Size = new System.Drawing.Size(185, 35);
+            this.SalesBonusTextBox.Size = new System.Drawing.Size(185, 28);
             this.SalesBonusTextBox.TabIndex = 7;
             // 
             // SalesBonusLabel
@@ -216,6 +217,7 @@
             this.CalculateButton.TabIndex = 8;
             this.CalculateButton.Text = "Calculate";
             this.CalculateButton.UseVisualStyleBackColor = true;
+            this.CalculateButton.Click += new System.EventHandler(this.CalculateButton_Click);
             // 
             // PrintButton
             // 

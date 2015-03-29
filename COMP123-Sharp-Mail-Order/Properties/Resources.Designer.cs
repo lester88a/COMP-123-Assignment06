@@ -279,20 +279,20 @@ namespace COMP123_Sharp_Mail_Order.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Total Salses.
+        ///   Looks up a localized string similar to Total Sales.
         /// </summary>
-        internal static string TotalSalsesLabelE {
+        internal static string TotalSalesLabelE {
             get {
-                return ResourceManager.GetString("TotalSalsesLabelE", resourceCulture);
+                return ResourceManager.GetString("TotalSalesLabelE", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Nombre de Salses.
+        ///   Looks up a localized string similar to Total des ventes.
         /// </summary>
-        internal static string TotalSalsesLabelF {
+        internal static string TotalSalesLabelF {
             get {
-                return ResourceManager.GetString("TotalSalsesLabelF", resourceCulture);
+                return ResourceManager.GetString("TotalSalesLabelF", resourceCulture);
             }
         }
     }
