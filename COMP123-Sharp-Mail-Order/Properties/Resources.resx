@@ -117,14 +117,107 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="CalculateButtonE" xml:space="preserve">
+    <value>Calculate Button</value>
+    <comment>Calculate Button E</comment>
+  </data>
+  <data name="CalculateButtonF" xml:space="preserve">
+    <value>Calculer Bouton</value>
+    <comment>Calculate Button E</comment>
+  </data>
+  <data name="ClearButtonE" xml:space="preserve">
+    <value>Clear Button</value>
+    <comment>Clear Button E</comment>
+  </data>
+  <data name="ClearButtonF" xml:space="preserve">
+    <value>Effacement</value>
+    <comment>Clear Button F</comment>
+  </data>
+  <data name="EmployeeIDLabelE" xml:space="preserve">
+    <value>Employee ID</value>
+    <comment>Employee ID Label E</comment>
+  </data>
+  <data name="EmployeeIDLabelF" xml:space="preserve">
+    <value>Employé ID</value>
+    <comment>Employee ID Label F</comment>
+  </data>
+  <data name="EmployeeNameLabelE" xml:space="preserve">
+    <value>Employee Name</value>
+    <comment>Employee Name Label E</comment>
+  </data>
+  <data name="EmployeeNameLabelF" xml:space="preserve">
+    <value>Nom de l'employé</value>
+    <comment>Employee Name Label F</comment>
+  </data>
+  <data name="EnglishRadioButtonE" xml:space="preserve">
+    <value>English</value>
+    <comment>English Radio Button E</comment>
+  </data>
+  <data name="EnglishRadioButtonF" xml:space="preserve">
+    <value>Anglais</value>
+    <comment>English Radio Button F</comment>
+  </data>
+  <data name="FrenchRadioButtonE" xml:space="preserve">
+    <value>French</value>
+    <comment>French Radio Button E</comment>
+  </data>
+  <data name="FrenchRadioButtonF" xml:space="preserve">
+    <value>Français</value>
+    <comment>French Radio Button F</comment>
+  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="graph-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="graphIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\graph-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HoursWorkedLabelE" xml:space="preserve">
+    <value>Hours Worked</value>
+    <comment>Hours Worked Label E</comment>
+  </data>
+  <data name="HoursWorkedLabelF" xml:space="preserve">
+    <value>Heures Travaillées</value>
+    <comment>Hours Worked LabelF</comment>
+  </data>
+  <data name="LanguagesGroupBoxE" xml:space="preserve">
+    <value>Languages</value>
+    <comment>Languages GroupBox E</comment>
+  </data>
+  <data name="LanguagesGroupBoxF" xml:space="preserve">
+    <value>Langues</value>
+    <comment>Languages GroupBox F</comment>
+  </data>
+  <data name="PrintButtonE" xml:space="preserve">
+    <value>Print</value>
+    <comment>Print Button E</comment>
+  </data>
+  <data name="PrintButtonF" xml:space="preserve">
+    <value>Imprimer</value>
+    <comment>Print Button E</comment>
+  </data>
+  <data name="SalesBonusFormE" xml:space="preserve">
+    <value>Sales Bonus</value>
+    <comment>SalesBonus Form E</comment>
+  </data>
+  <data name="SalesBonusFormF" xml:space="preserve">
+    <value>Boni de vente</value>
+    <comment>SalesBonus Form F</comment>
+  </data>
+  <data name="SalesBonusLabelE" xml:space="preserve">
+    <value>Sales Bonus</value>
+    <comment>Sales Bonus Label E</comment>
+  </data>
+  <data name="SalesBonusLabelF" xml:space="preserve">
+    <value>Bonus de vente</value>
+    <comment>Sales Bonus Label F</comment>
   </data>
   <data name="sale_big" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sale_big.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sales-background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sales-background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TotalSalsesLabelE" xml:space="preserve">
+    <value>Total Salses</value>
+    <comment>Total Salses Label E</comment>
+  </data>
+  <data name="TotalSalsesLabelF" xml:space="preserve">
+    <value>Nombre de Salses</value>
+    <comment>Total Salses Label F</comment>
   </data>
 </root>
